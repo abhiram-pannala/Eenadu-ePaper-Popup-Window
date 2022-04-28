@@ -1,2 +1,2 @@
-# Eenadu-ePaper-Popup-Window
+# Eenadu-ePaper-PopUp-Window
 Eenadu PopUp Window
